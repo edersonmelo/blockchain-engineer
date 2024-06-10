@@ -1,3 +1,3 @@
 # blockchain-engineer
 
-:rocket: Estudando Engenharia Blockchain
+:rocket: advances Engenharia Blockchain
